@@ -117,11 +117,13 @@ To download and install Dutch Informal pack manually, you have to access to your
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/nl_di/nl_di.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/nl_di/`
 
-See this screenshot
+See this screenshot:
 
 ![Dutch Informal pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **nl_di**
 
 #### Step 2: Flush cache
 
