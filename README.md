@@ -4,6 +4,7 @@
 
 Read more [Magento 2 Dutch Informal Language Pack](https://www.mageplaza.com/magento-2-dutch-informal-language-pack.html)
 
+![Mageplaza Dutch Informal language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
