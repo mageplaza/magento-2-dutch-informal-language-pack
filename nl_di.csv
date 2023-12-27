@@ -15306,3 +15306,4 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a date from the past.","Voer een datum in uit het verleden.",lib,web
 "custom.definition","custom.definition",lib,web
 "component.behaviours","component.behaviours",lib,web
+"Create New Customer Account","Nieuw account aanmaken",module,Magento_Customer
