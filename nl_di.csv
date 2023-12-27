@@ -2217,7 +2217,7 @@ en de productbeschrijving kan oplopen tot 18, 14 of 9 tekens (met een * tussen e
 "We can't find products matching the selection.","Geen producten gevonden voor deze selectie.",module,Magento_Catalog
 "Learn More","Lees verder",module,Magento_Catalog
 "Add to Compare","Toevoegen om te vergelijken",module,Magento_Catalog
-"We found other products you might like!","Andere producten die mogelijk iets voor jou zijn!",module,Magento_Catalog
+"We found other products you might like!","Leuk te combineren met:",module,Magento_Catalog
 "More Choices:","Meer keuzes:",module,Magento_Catalog
 "Check items to add to the cart or","Selecteer items om ze aan het mandje toe te voegen of",module,Magento_Catalog
 "select all","alles selecteren",module,Magento_Catalog
@@ -2977,7 +2977,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "My Cart (1 item)","Winkelwagen (1 product)",module,Magento_Checkout
 "My Cart (%1 items)","Winkelwagen (%1 producten)",module,Magento_Checkout
 "My Cart","Winkelwagen",module,Magento_Checkout
-"%1: Line %2","%1: Line %2",module,Magento_Checkout
+"%1: Line %2","Straatnaam",module,Magento_Checkout
 "For delivery questions.","Voor vragen over de aflevering.",module,Magento_Checkout
 "Customer is already registered","Klant is al geregistreerd",module,Magento_Checkout
 "Your session has expired","Je sessie is verlopen",module,Magento_Checkout
@@ -4553,7 +4553,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "The customer would belong to Customer Group %s.","De klant zou behoren tot de groep Customer %s.",module,Magento_Customer
 "There was an error detecting Customer Group.","Er is een fout opgetreden bij Klant Groep.",module,Magento_Customer
 "Validate VAT Number","Valideer BTW-nummer",module,Magento_Customer
-"Date of Birth","Geboortedatum",module,Magento_Customer
+"Date of Birth","Uitgerekende datum",module,Magento_Customer
 "Done","Done",module,Magento_Customer
 "Prev","Prev",module,Magento_Customer
 "Next","Next",module,Magento_Customer
@@ -4969,7 +4969,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Show Suffix","Achtervoegsel tonen",module,Magento_Customer
 "The suffix that goes after name (Jr., Sr., etc.)","De afkorting die achter de naam staat (Jr., Sr., etc.)",module,Magento_Customer
 "Suffix Dropdown Options","Dropdown-opties achtervoegsel",module,Magento_Customer
-"Show Date of Birth","Geboortedatum tonen",module,Magento_Customer
+"Show Date of Birth","Uitgerekende datum tonen",module,Magento_Customer
 "Show Tax/VAT Number","BTW-nummer tonen",module,Magento_Customer
 "Show Gender","Geslacht tonen",module,Magento_Customer
 "Show Telephone","Toon Telefoonnummer",module,Magento_Customer
@@ -10292,7 +10292,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Ratings","Waarderingen",module,Magento_Review
 "You saved the rating.","Je hebt de waardering opgeslagen.",module,Magento_Review
 "My Product Reviews","Productreviews",module,Magento_Review
-"You submitted your review for moderation.","Je hebt je review aangeboden ter goedkeuring.",module,Magento_Review
+"You submitted your review for moderation.","Bedankt! We hebben je beoordeling ontvangen.",module,Magento_Review
 "We can't post your review right now.","Wij kunnen je beoordeling nu niet plaatsen.",module,Magento_Review
 "The storage key wasn't set. Add the storage key and try again.","The storage key wasn't set. Add the storage key and try again.",module,Magento_Review
 "Approved","Akkoord",module,Magento_Review
@@ -10309,19 +10309,19 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Rating","Waardering",module,Magento_Review
 "Actions","Acties",module,Magento_Review
 "See Details","Bekijk details",module,Magento_Review
-"You have submitted no reviews.","Je hebt nog geen reviews geschreven.",module,Magento_Review
+"You have submitted no reviews.","Je hebt nog geen beoordelingen geschreven.",module,Magento_Review
 "Back","Terug",module,Magento_Review
 "My Recent Reviews","Recente reviews",module,Magento_Review
 "View All","Bekijk alles",module,Magento_Review
 "Average Customer Rating:","Gemiddelde klantwaardering:",module,Magento_Review
-"Your Review","Je Review",module,Magento_Review
+"Your Review","Je beoordeling",module,Magento_Review
 "Submitted on %1","Ingediend op %1",module,Magento_Review
 "Back to My Reviews","Terug naar reviews-overzicht",module,Magento_Review
 "Ratings Review Summary","Waarderingen Review Samenvatting",module,Magento_Review
-"Be the first to review this product","Schrijf de eerste review over dit product",module,Magento_Review
-"Write Your Own Review","Schrijf je eigen review",module,Magento_Review
+"Be the first to review this product","Schrijf de eerste beoordeling over dit product",module,Magento_Review
+"Write Your Own Review","Schrijf je eigen beoordeling",module,Magento_Review
 "* Required Fields","* Verplichte velden",module,Magento_Review
-"You're reviewing:","Je plaatst een review over:",module,Magento_Review
+"You're reviewing:","Je plaatst een beoordeling over:",module,Magento_Review
 "Your Rating","Je waardering",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
 "Summary","Samenvatting",module,Magento_Review
@@ -10398,7 +10398,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Sorry, but a rate for the same website, customer group and direction or covering rate already exists.","Een tarief voor dezelfde website, klantgroep en richting of dekking tarief bestaat al.",module,Magento_Reward
 "Page not found.","Pagina niet gevonden.",module,Magento_Reward
 "You saved the settings.","Je hebt de instellingen opgeslagen.",module,Magento_Reward
-"You unsubscribed.","Je abonnement werd opgezegd.",module,Magento_Reward
+"You unsubscribed.","Je nieuwsbrief inschrijving is beëindigd.",module,Magento_Reward
 "You can't unsubscribed right now.","Je kan nu niet uitschrijven.",module,Magento_Reward
 "%1 Reward points (%2)","%1 spaarpunten (%2)",module,Magento_Reward
 "%1 Reward points","%1 Spaarpunten",module,Magento_Reward
@@ -13961,9 +13961,9 @@ We steunen onze goedkeuringen met 100% terugboekingsbescherming en betalen je he
 "This is a required field.","Dit is een verplicht veld.",module,Magento_Ui
 "Please enter positive number in this field.","Een positief getal invullen a. u. b.",module,Magento_Ui
 "Please enter a valid value, ex: 10,20,30","Geef een geldige waarde op, bijv.: 10,20,30",module,Magento_Ui
-"Please enter a quantity greater than 0.","Please enter a quantity greater than 0.",module,Magento_Ui
-"The fewest you may purchase is %1.","The fewest you may purchase is %1.",module,Magento_Ui
-"The maximum you may purchase is %1.","The maximum you may purchase is %1.",module,Magento_Ui
+"Please enter a quantity greater than 0.","Dit aantal is niet mogelijk.",module,Magento_Ui
+"The fewest you may purchase is %1.","Dit aantal is niet mogelijk.",module,Magento_Ui
+"The maximum you may purchase is %1.","Dit aantal is niet mogelijk.",module,Magento_Ui
 "You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time.",module,Magento_Ui
 "We don't recognize or support this file extension type.","We herkennen of ondersteunen dit bestandsformaat type niet.",module,Magento_Ui
 "File you are trying to upload exceeds maximum file size limit.","Bestand dat je probeert te uploaden overschrijdt de maximale bestandsgrootte limiet.",module,Magento_Ui
@@ -15280,9 +15280,9 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a valid number.","Vul een geldig getal in.",lib,web
 "This is required field","Dit is een verplicht veld",lib,web
 "Admin is a required field in each row.","Admin is een vereist veld in elke rij.",lib,web
-"Please enter a quantity greater than 0.","Please enter a quantity greater than 0.",lib,web
-"The fewest you may purchase is %1.","The fewest you may purchase is %1.",lib,web
-"The maximum you may purchase is %1.","The maximum you may purchase is %1.",lib,web
+"Please enter a quantity greater than 0.","Dit aantal is niet mogelijk.",lib,web
+"The fewest you may purchase is %1.","Dit aantal is niet mogelijk.",lib,web
+"The maximum you may purchase is %1.","Dit aantal is niet mogelijk.",lib,web
 "You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time.",lib,web
 "The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again.",lib,web
 "Please fix this field.","Corrigeer dit veld.",lib,web
