@@ -518,7 +518,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "What is this?","Wat is dit?",module,Magento_Backend
 "Save Account","Account opslaan",module,Magento_Backend
 "My Account","Account",module,Magento_Backend
-"Account Information","Account Gegevens",module,Magento_Backend
+"Account Information","Accountgegevens",module,Magento_Backend
 "User Name","Gebruikersnaam",module,Magento_Backend
 "First Name","Voornaam",module,Magento_Backend
 "Last Name","Achternaam",module,Magento_Backend
@@ -3661,7 +3661,7 @@ See Magento documentation for more information,module,Magento_CmsStaging
 "Team Title","Team naam",module,Magento_Company
 "Description","Omschrijving",module,Magento_Company
 "You don't have a company account yet.","Je hebt nog geen bedrijfsaccount.",module,Magento_Company
-"Account Information","Account Gegevens",module,Magento_Company
+"Account Information","Accountgegevens",module,Magento_Company
 "VAT/TAX ID: ","BTW-nummer: ",module,Magento_Company
 "Re-seller ID: ","Verkoper ID: ",module,Magento_Company
 "You have no other address entries in your address book.","Je hebt geen andere adressen ingevoerd in jeadresboek.",module,Magento_Company
@@ -4784,7 +4784,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Change","Verander",module,Magento_Customer
 "Manage Addresses","Beheer adressen",module,Magento_Customer
 "Default Shipping Address","Standaard verzendadres",module,Magento_Customer
-"Account Information","Account Gegevens",module,Magento_Customer
+"Account Information","Accountgegevens",module,Magento_Customer
 "Contact Information","Contactgegevens",module,Magento_Customer
 "Change Password","Wachtwoord wijzigen",module,Magento_Customer
 "Newsletters","Nieuwsbrieven",module,Magento_Customer
@@ -5218,7 +5218,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Use as my default shipping address","Gebruik als standaard verzendadres",module,Magento_CustomerCustomAttributes
 "Save Address","Adres opslaan",module,Magento_CustomerCustomAttributes
 "Go back","Terug",module,Magento_CustomerCustomAttributes
-"Account Information","Account Gegevens",module,Magento_CustomerCustomAttributes
+"Account Information","Accountgegevens",module,Magento_CustomerCustomAttributes
 "Change Email","E-mailadres wijzigen",module,Magento_CustomerCustomAttributes
 "Change Password","Wachtwoord wijzigen",module,Magento_CustomerCustomAttributes
 "Change Email and Password","Wijzig E-Mail en wachtwoord",module,Magento_CustomerCustomAttributes
@@ -8195,7 +8195,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Quote # %1","Offerte # %1",module,Magento_NegotiableQuote
 "Name","Naam",module,Magento_NegotiableQuote
 "Expiration Date","Vervaldatum",module,Magento_NegotiableQuote
-"Account Information","Account Gegevens",module,Magento_NegotiableQuote
+"Account Information","Accountgegevens",module,Magento_NegotiableQuote
 "Edit Company","Bedrijf bewerken",module,Magento_NegotiableQuote
 "Add Product By SKU","Product toevoegen op art.nr.",module,Magento_NegotiableQuote
 "Name & SKU","Naam & SKU",module,Magento_NegotiableQuote
@@ -10951,7 +10951,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Coupons","Kortingsbonnen",module,Magento_Sales
 "Please select a customer","Selecteer een klant",module,Magento_Sales
 "Create New Customer","Nieuwe klant aanmaken",module,Magento_Sales
-"Account Information","Account Gegevens",module,Magento_Sales
+"Account Information","Accountgegevens",module,Magento_Sales
 "From","Van",module,Magento_Sales
 "To","Aan",module,Magento_Sales
 "Message","Bericht",module,Magento_Sales
@@ -14254,7 +14254,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Force Sign-In","Forceer opnieuw inloggen",module,Magento_User
 "Edit User '%1'","Bewerken gebruiker '%1'",module,Magento_User
 "New User","Nieuwe gebruiker",module,Magento_User
-"Account Information","Account Gegevens",module,Magento_User
+"Account Information","Accountgegevens",module,Magento_User
 "User Email","E-mail van gebruiker",module,Magento_User
 "Password","Wachtwoord",module,Magento_User
 "New Password","Nieuw wachtwoord",module,Magento_User
