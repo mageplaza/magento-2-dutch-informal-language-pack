@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
-    <code>nl_di</code>
+    <code>nl_nl</code>
     <vendor>mageplaza</vendor>
-    <package>nl_di</package>
+    <package>nl_nl</package>
 </language>
